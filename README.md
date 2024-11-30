@@ -1,3 +1,3 @@
 # scripts
 
-Somme scripts for daily use.
+Some scripts for daily use.
